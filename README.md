@@ -2,7 +2,7 @@
 
 In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026
 
-[![Submit on OpenReview](https://img.shields.io/badge/Submit-OpenReview-red)](https://openreview.net/group?id=IEEE.org/ICHI/2026/Conference)
+[![Submit on OpenReview](TBD)
 
 ---
 
@@ -66,7 +66,7 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 - **Abstracts (2 pages)** will describe your vision, work in progress and preliminary results.
 
 **Templates:** Please follow the [IEEE conference templates](https://www.ieee.org/conferences/publishing/templates.html).  
-**Submission site:** [OpenReview — IEEE ICHI 2026](https://openreview.net/group?id=IEEE.org/ICHI/2026/Conference)
+**Submission site:** TBD
 
 ### Important Dates
 
@@ -102,7 +102,7 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 
 ---
 
-## Program Schedule
+## Program Schedule (Tentative) 
 
 | Time | Activity | Speaker(s) / Lead |
 | :-- | :-- | :-- |
@@ -128,7 +128,7 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 - **Sunyang Fu** (Mayo Clinic) – *Clinical Concept Extraction, SDOH.*  
 - **Sunghwan Sohn** (Mayo Clinic) – *Computational Phenotyping.*
 
-### Advisory Committee
+### Speakers
 
 - **Sunghwan Sohn** (Mayo Clinic)  
 - **Sandeep Pagali** (Mayo Clinic)  
