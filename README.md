@@ -1,6 +1,6 @@
 # First Workshop on Clinical Natural Language Processing for Quality of Life (CNLP4QoL)
 
-**In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026**
+In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026
 
 [![Submit on OpenReview](https://img.shields.io/badge/Submit-OpenReview-red)](https://openreview.net/group?id=IEEE.org/ICHI/2026/Conference)
 
