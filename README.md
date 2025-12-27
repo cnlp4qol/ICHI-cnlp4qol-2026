@@ -39,8 +39,7 @@ Significant challenges currently limit the scalable use of NLP for QoL assessmen
 ### Topics of Interest
 
 We encourage submissions covering, but not limited to:
-
-- Extraction, interpretation, and prediction of QoL indicators from text.  
+ 
 - Extraction, interpretation, and prediction of QoL indicators from text.
 - Modeling and leveraging QoL-related information from unstructured documents.
 - Reasoning and trustworthiness in language models for whole-person care.
