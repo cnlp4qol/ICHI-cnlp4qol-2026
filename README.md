@@ -103,8 +103,8 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 
 ## Program Schedule (Tentative) 
 
-| Time | Activity | Speaker(s) / Lead |
-| :-- | :-- | :-- |
+| Time | Activity |
+| :-- | :-- |
 | **08:30 – 08:40** | **Welcome Remarks & Introduction** |
 | **08:40 – 09:05** | **Keynote #1:** Sunghwan Sohn, PhD** (Mayo Clinic) |
 | **09:05 – 09:30** | **Keynote #2:** Rui Zhang, PhD** (UMN) |
