@@ -105,15 +105,15 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 
 | Time | Activity | Speaker(s) / Lead |
 | :-- | :-- | :-- |
-| **08:30 – 08:40** | **Welcome Remarks & Introduction** | **Eunji Jeon** (Mayo Clinic) |
-| **08:40 – 09:05** | **Keynote #1:** ADL/mobility function extraction | **Sunghwan Sohn, PhD** (Mayo Clinic) |
-| **09:05 – 09:30** | **Keynote #2:** Outlook of CNLP in QoL | **Rui Zhang, PhD** (UMN) |
-| **09:30 – 10:00** | **Session 1:** Oral Presentations | Selected Authors |
-| **10:00 – 10:30** | ☕ **Break & Poster Session** | Abstracts & Selected Papers |
-| **10:30 – 10:50** | **Keynote #3:** Clinical Application in CNLP | **Sandeep Pagali, MD, MPH** (Mayo Clinic) |
-| **10:50 – 11:20** | **Session 2:** Oral Presentations | Selected Authors |
-| **11:20 – 11:50** | **Hands-on Tutorial:** QoL Concept Extraction | **Xingyi Liu, Pushkala Jayaraman, Humayera Islam** |
-| **11:50 – 12:00** | **Closing Remarks & Future Directions** | **Muskan Garg** (Mayo Clinic) |
+| **08:30 – 08:40** | **Welcome Remarks & Introduction** |
+| **08:40 – 09:05** | **Keynote #1:** Sunghwan Sohn, PhD** (Mayo Clinic) |
+| **09:05 – 09:30** | **Keynote #2:** Rui Zhang, PhD** (UMN) |
+| **09:30 – 10:00** | **Session 1:** Oral Presentations
+| **10:00 – 10:30** | ☕ **Break & Poster Session**
+| **10:30 – 10:50** | **Keynote #3:** Sandeep Pagali, MD, MPH** (Mayo Clinic) |
+| **10:50 – 11:20** | **Session 2:** Oral Presentations |
+| **11:20 – 11:50** | **Hands-on Tutorial:** (**Xingyi Liu, Pushkala Jayaraman, Humayera Islam**) |
+| **11:50 – 12:00** | **Closing Remarks & Future Directions** |
 
 ---
 
@@ -124,14 +124,8 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 - **Muskan Garg** - Mayo Clinic, USA
 - **Humayera Islam** - University of Chicago, USA
 - **Pushkala Jayaraman** - Icahn School of Medicine at Mount Sinai, USA
-- **Sunyang Fu** - Mayo Clinic, USA
+- **Sunyang Fu** - University of Texas, USA
 - **Sunghwan Sohn** - Mayo Clinic, USA
-
-### Speakers
-
-- **Sunghwan Sohn** (Mayo Clinic)  
-- **Sandeep Pagali** (Mayo Clinic)  
-- **Rui Zhang** (University of Minnesota)
 
 ### Program Committee
 
