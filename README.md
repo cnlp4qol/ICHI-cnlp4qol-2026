@@ -121,11 +121,11 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 
 ### Workshop Organizers
 
-- **Muskan Garg** (Mayo Clinic) – *Mental Health Analysis, Social Media NLP.*  
-- **Humayera Islam** (University of Chicago) – *Precision Health, Health Equity.*  
-- **Pushkala Jayaraman** (Icahn School of Medicine at Mount Sinai) – *Clinical Informatics, AI for Critical Care.*  
-- **Sunyang Fu** (Mayo Clinic) – *Clinical Concept Extraction, SDOH.*  
-- **Sunghwan Sohn** (Mayo Clinic) – *Computational Phenotyping.*
+- **Muskan Garg** - Mayo Clinic, USA
+- **Humayera Islam** - University of Chicago, USA
+- **Pushkala Jayaraman** - Icahn School of Medicine at Mount Sinai, USA
+- **Sunyang Fu** - Mayo Clinic, USA
+- **Sunghwan Sohn** - Mayo Clinic, USA
 
 ### Speakers
 
