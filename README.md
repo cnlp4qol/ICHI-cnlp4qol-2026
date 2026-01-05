@@ -112,7 +112,7 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 | **10:00 – 10:30** | ☕ **Break & Poster Session**
 | **10:30 – 10:50** | **Keynote #3:** Sandeep Pagali, MD, MPH** (Mayo Clinic) |
 | **10:50 – 11:20** | **Session 2:** Oral Presentations |
-| **11:20 – 11:50** | **Hands-on Tutorial:** (**Xingyi Liu, Pushkala Jayaraman, Humayera Islam**) |
+| **11:20 – 11:50** | **Hands-on Tutorial:** |
 | **11:50 – 12:00** | **Closing Remarks & Future Directions** |
 
 ---
