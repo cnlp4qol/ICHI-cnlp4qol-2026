@@ -137,11 +137,11 @@ Mayo Clinic, Rochester, MN
 
 ### Workshop Organizers
 
-- **Muskan Garg** - Mayo Clinic, USA
-- **Humayera Islam** - University of Chicago, USA
-- **Pushkala Jayaraman** - Icahn School of Medicine at Mount Sinai, USA
-- **Sunyang Fu** - University of Texas, USA
-- **Sunghwan Sohn** - Mayo Clinic, USA
+- **Muskan Garg** - Mayo Clinic, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=_FqdtUsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/muskan-garg-phd-962b4959))
+- **Humayera Islam** - University of Chicago, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=FFVzrPEAAAAJ) · [LinkedIn](https://www.linkedin.com/in/humayera-islam))
+- **Pushkala Jayaraman** - Icahn School of Medicine at Mount Sinai, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=Kce1nVIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/pushkalajayaraman))
+- **Sunyang Fu** - University of Texas, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=PUp9U5UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunyangfu))
+- **Sunghwan Sohn** - Mayo Clinic, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn))
 
 ### Program Committee
 
