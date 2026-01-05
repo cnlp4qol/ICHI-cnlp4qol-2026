@@ -106,13 +106,13 @@ Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)
 | Time | Activity |
 | :-- | :-- |
 | **08:30 – 08:40** | **Welcome Remarks & Introduction** |
-| **08:40 – 09:05** | **Keynote #1:** Sunghwan Sohn, PhD** (Mayo Clinic) |
-| **09:05 – 09:30** | **Keynote #2:** Rui Zhang, PhD** (UMN) |
+| **08:40 – 09:05** | **Keynote #1** |
+| **09:05 – 09:30** | **Keynote #2** |
 | **09:30 – 10:00** | **Session 1:** Oral Presentations
 | **10:00 – 10:30** | ☕ **Break & Poster Session**
-| **10:30 – 10:50** | **Keynote #3:** Sandeep Pagali, MD, MPH** (Mayo Clinic) |
+| **10:30 – 10:50** | **Keynote #3** |
 | **10:50 – 11:20** | **Session 2:** Oral Presentations |
-| **11:20 – 11:50** | **Hands-on Tutorial:** |
+| **11:20 – 11:50** | **Hands-on Tutorial** |
 | **11:50 – 12:00** | **Closing Remarks & Future Directions** |
 
 ---
