@@ -93,9 +93,13 @@ Mayo Clinic, Rochester, MN
 
 ### Rui Zhang, PhD
 
+<img src="./Rui%20Zhang.png" alt="Rui Zhang" width="160" align="right" />
+
 University of Minnesota, Twin Cities, MN  
-Topic: TBD
+
 **Bio:** TBD
+
+Links: [Website](https://ruizhang.umn.edu) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpoTIgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rui-zhang-phd-facmi-famia-fiahsi-003065b)  
 
 ### Sandeep Pagali, MD, MPH
 
