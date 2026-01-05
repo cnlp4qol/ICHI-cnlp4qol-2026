@@ -97,7 +97,7 @@ Mayo Clinic, Rochester, MN
 
 University of Minnesota, Twin Cities, MN  
 
-**Bio:** TBD
+**Bio:** Dr. Zhang is Professor and Founding Chief of Division of Computational Health Sciences at the University of Minnesota. He was named as McKnight Presidential Fellow and hold several leadership roles, including Chair of AI and Data science for Healthcare workgroup within the UMN’s Data Science and AI Hub, Associate Director of Health AI & Data Science for the Center for Learning Health System Sciences, the Director of Natural Language Processing/Information Extraction (NLP/IE) research program, and previously served as Director of NLP at UMN’s Clinical and Translational Science Institute. Dr. Zhang’s research is at the forefront of integrating novel AI with healthcare research and practice, analyzing multimodal biomedical data, including electronic health records, biomedical literature, and patient-generated data. His research is fully supported by multiple NIH grants as Principal Investigator, focusing on transformative AI projects including mining safety use of dietary supplements (two NCCIH R01s), discovering drug repurposing of Alzheimer’s disease (NIA R01), predicting breast cancer treatment related cardiotoxicity (NCI R01), identifying medical language bias in kidney transplantation (NIDDK R01), and develop knowledge graph on complementary and integrative health (NCCIH U01). He has published over 150 peer-reviewed articles, including Natural Medicine, Natural Communications, Natural Digital Medicine. His work has been reported by The Wall Street Journal, and interviewed by CBS News. Dr. Zhang is a Fellow of International Academy of Health Sciences Informatics (FIAHSI), Fellow of American College of Medical Informatics (FACMI) and Fellow of AMIA. He is the current Chair of AMIA Natural Language Processing (NLP) Working Group.
 
 [Website](https://med.umn.edu/bio/rui-zhang) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpoTIgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rui-zhang-phd-facmi-famia-fiahsi-003065b)  
 
@@ -107,7 +107,8 @@ University of Minnesota, Twin Cities, MN
 
 Mayo Clinic, Rochester, MN  
 
-**Bio:** TBD
+**Bio:** Sandeep R. Pagali, M.D., M.P.H., is a geriatrician and hospitalist. He is committed to improving care for older adults in the hospital. His research interest is in predicting the risk of hospitalization for older adults with delirium. He focuses on identifying what resources are needed and how they can be best applied to prevent and treat occurrences of delirium. He also studies the role and effectiveness of approaches other than medication in cognitive decline and dementia-related behaviors. Dr. Pagali is very enthusiastic in research related to polypharmacy, treatment with multiple drugs. He is focused on reducing the number of drugs patients are taking. Dr. Pagali also studies ways to improve care transitions for the older adults with an emphasis on care delivery outside of the hospital.
+
 [Website](https://www.mayo.edu/research/faculty/pagali-sandeep-r-m-d-m-p-h/bio-20549278) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=0K9lHp0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/sandeep-pagali-10194526b)
 
 ---
