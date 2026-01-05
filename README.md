@@ -87,7 +87,7 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 
 Mayo Clinic, Rochester, MN 
 
-**Bio:** Sunghwan Sohn, Ph.D., has expertise in mining large-scale electronic health records (EHRs) to unlock unstructured and hidden information through natural language processing (NLP) and machine learning techniques. Dr. Sohn develops strategies for the best use of informatics, ranging from precision medicine to population health, in order to achieve better solutions for people.
+**Bio:** Sunghwan Sohn, Ph.D., has expertise in mining large-scale electronic health records (EHRs) to unlock unstructured and hidden information through natural language processing (NLP) and machine learning techniques. Dr. Sohn develops strategies for the best use of informatics, ranging from precision medicine to population health, in order to achieve better solutions for people. Dr. Sohn's research helps the best use of EHRs to solve clinical problems and improve public health. His work provides biomedical scientists and clinicians access to the rich yet untapped information embedded in clinical narratives. Leveraging AI-driven EHR data analytics, his work provides the healthcare community with the valuable insights needed for advancing clinical research and improving care to people.
 
 [Website](https://www.mayo.edu/research/faculty/sohn-sunghwan-ph-d/bio-20199707) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn)
 
