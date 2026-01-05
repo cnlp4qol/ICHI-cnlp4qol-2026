@@ -91,6 +91,8 @@ Mayo Clinic, Rochester, MN
 
 [Website](https://www.mayo.edu/research/faculty/sohn-sunghwan-ph-d/bio-20199707) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn)
 
+<br/>
+
 ### Rui Zhang, PhD
 
 <img src="./Rui%20Zhang.png" alt="Rui Zhang" width="160" align="right" />
@@ -100,6 +102,8 @@ University of Minnesota, Twin Cities, MN
 **Bio:** Dr. Zhang is Professor and Founding Chief of Division of Computational Health Sciences at the University of Minnesota. He was named as McKnight Presidential Fellow and hold several leadership roles, including Chair of AI and Data science for Healthcare workgroup within the UMN’s Data Science and AI Hub, Associate Director of Health AI & Data Science for the Center for Learning Health System Sciences, the Director of Natural Language Processing/Information Extraction (NLP/IE) research program, and previously served as Director of NLP at UMN’s Clinical and Translational Science Institute. Dr. Zhang’s research is at the forefront of integrating novel AI with healthcare research and practice, analyzing multimodal biomedical data, including electronic health records, biomedical literature, and patient-generated data. His research is fully supported by multiple NIH grants as Principal Investigator, focusing on transformative AI projects including mining safety use of dietary supplements (two NCCIH R01s), discovering drug repurposing of Alzheimer’s disease (NIA R01), predicting breast cancer treatment related cardiotoxicity (NCI R01), identifying medical language bias in kidney transplantation (NIDDK R01), and develop knowledge graph on complementary and integrative health (NCCIH U01). He has published over 150 peer-reviewed articles, including Natural Medicine, Natural Communications, Natural Digital Medicine. His work has been reported by The Wall Street Journal, and interviewed by CBS News. Dr. Zhang is a Fellow of International Academy of Health Sciences Informatics (FIAHSI), Fellow of American College of Medical Informatics (FACMI) and Fellow of AMIA. He is the current Chair of AMIA Natural Language Processing (NLP) Working Group.
 
 [Website](https://med.umn.edu/bio/rui-zhang) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpoTIgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rui-zhang-phd-facmi-famia-fiahsi-003065b)  
+
+<br/>
 
 ### Sandeep Pagali, MD, MPH
 
