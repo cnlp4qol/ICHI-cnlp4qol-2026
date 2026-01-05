@@ -82,9 +82,8 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 ## Keynote Speakers
 
 ### Sunghwan Sohn, PhD
-
+Links: [Website](https://www.mayo.edu/research/faculty/sohn-sunghwan-ph-d/bio-20199707) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn)
 Mayo Clinic, Rochester, MN  
-Topic: ADL/Mobility Function Extraction from Clinical Notes & Their Association with Dementia  
 **Bio:** TBD
 
 ### Rui Zhang, PhD
