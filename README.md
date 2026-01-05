@@ -2,7 +2,7 @@
 
 In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026
 
-[[Submit on OpenReview](TBD)
+[Submit on OpenReview](TBD)
 
 ---
 
