@@ -99,13 +99,16 @@ University of Minnesota, Twin Cities, MN
 
 **Bio:** TBD
 
-Links: [Website](https://ruizhang.umn.edu) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpoTIgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rui-zhang-phd-facmi-famia-fiahsi-003065b)  
+[Website](https://med.umn.edu/bio/rui-zhang) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpoTIgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rui-zhang-phd-facmi-famia-fiahsi-003065b)  
 
 ### Sandeep Pagali, MD, MPH
 
+<img src="./sandeep-pagali.webp" alt="Sandeep Pagali" width="160" align="right" />
+
 Mayo Clinic, Rochester, MN  
-Topic: Clinical Application (Tool) in CNLP for QoL (Tentative)  
+
 **Bio:** TBD
+[Website](https://www.mayo.edu/research/faculty/pagali-sandeep-r-m-d-m-p-h/bio-20549278) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=0K9lHp0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/sandeep-pagali-10194526b)
 
 ---
 
