@@ -78,6 +78,7 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 | **Workshop Date** | June 1, 2026 |
 
 ---
+<!--
 
 ## Keynote Speakers
 
@@ -114,7 +115,7 @@ Mayo Clinic, Rochester, MN
 **Bio:** Sandeep R. Pagali, M.D., M.P.H., is a geriatrician and hospitalist. He is committed to improving care for older adults in the hospital. His research interest is in predicting the risk of hospitalization for older adults with delirium. He focuses on identifying what resources are needed and how they can be best applied to prevent and treat occurrences of delirium. He also studies the role and effectiveness of approaches other than medication in cognitive decline and dementia-related behaviors. Dr. Pagali is very enthusiastic in research related to polypharmacy, treatment with multiple drugs. He is focused on reducing the number of drugs patients are taking. Dr. Pagali also studies ways to improve care transitions for the older adults with an emphasis on care delivery outside of the hospital.
 
 [Website](https://www.mayo.edu/research/faculty/pagali-sandeep-r-m-d-m-p-h/bio-20549278) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=0K9lHp0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/sandeep-pagali-10194526b)
-
+-->
 ---
 
 ## Program Schedule (Tentative) 
