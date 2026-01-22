@@ -2,7 +2,7 @@
 
 In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026
 
-Submit on OpenReview(TBD)
+[![Submit on EasyChair](https://img.shields.io/badge/Submit%20on-EasyChair-2ea44f)](https://easychair.org/my2/conference?conf=ieeeichi2026)
 
 ---
 
