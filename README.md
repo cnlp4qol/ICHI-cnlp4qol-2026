@@ -65,13 +65,13 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 - **Abstracts (2 pages)** will describe your vision, work in progress and preliminary results.
 
 **Templates:** Please follow the [IEEE conference templates](https://www.ieee.org/conferences/publishing/templates.html).  
-**Submission site:** TBD
+**Submission site:** [Link](https://easychair.org/my2/conference?conf=ieeeichi2026) followed by cNLP4QoL track selection.
 
 ### Important Dates
 
 | Milestone | Date |
 | :-- | :-- |
-| **Submission Deadline** | March 1, 2026 |
+| **Submission Deadline** | March 15, 2026 |
 | **Notification of Acceptance** | March 21, 2026 |
 | **Camera-Ready Due** | March 28, 2026 |
 | **Presentation + Videos Submission** | May 18, 2026 |
