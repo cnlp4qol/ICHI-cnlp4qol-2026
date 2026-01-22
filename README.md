@@ -66,7 +66,7 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 
 **Templates:** Please follow the [IEEE conference templates](https://www.ieee.org/conferences/publishing/templates). Submissions must contain the names and affiliations of authors listed on the paper. 
 
-**Submission site:** [Link](https://easychair.org/my2/conference?conf=ieeeichi2026) followed by cNLP4QoL track selection.
+**Submission:** [Link](https://easychair.org/my2/conference?conf=ieeeichi2026) followed by cNLP4QoL track selection.
 
 ### Important Dates
 
