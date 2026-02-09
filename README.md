@@ -167,6 +167,9 @@ Mayo Clinic, Rochester, MN
 - **Xingyi Liu** (Mayo Clinic)  
 - **Ziming Liu** (University of Oklahoma)  
 - **Zehan (Leo) Li** (DeepKin AI, USA)
+- **Sripriya Rajamani** (University of Minnesota)
+- **Kaushik Roy** (University of Alabama)
+- **Ahsaas Bajaj** (Instacart, USA)
 
 ---
 
