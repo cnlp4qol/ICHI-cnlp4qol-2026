@@ -73,8 +73,8 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 | Milestone | Date |
 | :-- | :-- |
 | **Submission Deadline** | March 15, 2026 |
-| **Notification of Acceptance** | March 21, 2026 |
-| **Camera-Ready Due** | March 28, 2026 |
+| **Notification of Acceptance** | March 24, 2026 |
+| **Camera-Ready Due** | March 31, 2026 |
 | **Presentation + Videos Submission** | May 18, 2026 |
 | **Workshop Date** | June 1, 2026 |
 
