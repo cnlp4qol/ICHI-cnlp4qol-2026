@@ -170,6 +170,23 @@ Mayo Clinic, Rochester, MN
 - **Sripriya Rajamani** (University of Minnesota)
 - **Kaushik Roy** (University of Alabama)
 - **Ahsaas Bajaj** (Instacart, USA)
+- **Ankush Rastogi**
+- **Pooja Sarin**
+- **Fatma Monib** (Mayo Clinic)
+- **Dhayaeddine Messaoudi** (University of Khenchela)
+- **Dr. V. B Murali Krishna** (National Institute of Technology, Andhra Pradesh)
+- **Sachin Kumar** (University of Jammu)
+- **Pratik Jalan** (Indian Institute of Technology Mumbai)
+- **Quan Nguyen**
+- **Santhosh Amilpur** (Indian Institute of Information Technology, SriCity)
+- **Vinay Kumar** (Indian Institute of Technology, Madras)
+- **Parth Vashisht**
+- **Yipeng Shi**
+- **Sanket Shah** (Silver Oak University)
+- **Jyoti Yadav**
+- **Shivali Dalmia** (Centific, United States)
+- **Rupesh Gelal** (University of Cincinnati)
+- **Ananya Mantravadi**
 
 ---
 
