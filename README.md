@@ -174,7 +174,7 @@ Mayo Clinic, Rochester, MN
 - **Pooja Sarin**
 - **Fatma Monib** (Mayo Clinic)
 - **Dhayaeddine Messaoudi** (University of Khenchela)
-- **Dr. V. B Murali Krishna** (National Institute of Technology, Andhra Pradesh)
+- **V. B Murali Krishna** (National Institute of Technology, Andhra Pradesh)
 - **Sachin Kumar** (University of Jammu)
 - **Pratik Jalan** (Indian Institute of Technology Mumbai)
 - **Quan Nguyen**
