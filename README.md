@@ -149,7 +149,7 @@ Mayo Clinic, Rochester, MN
 
 - **Abeed Sarker** (Emory University)  
 - **Adam Jatowt** (University of Innsbruck)  
-- **Aly-Fasly, Saghir A.** (Mayo Clinic)  
+- **Al-Fasly, Saghir A.** (Mayo Clinic)  
 - **Aman Chadha** (Apple Inc., USA)  
 - **Amitava Das** (NIT, Goa)  
 - **Dezhi Wu** (University of South Carolina)  
