@@ -116,6 +116,7 @@ Mayo Clinic, Rochester, MN
 
 [Website](https://www.mayo.edu/research/faculty/pagali-sandeep-r-m-d-m-p-h/bio-20549278) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=0K9lHp0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/sandeep-pagali-10194526b)
 
+---
 
 ## Program Schedule (Monday, June 1, 2026) 
 
