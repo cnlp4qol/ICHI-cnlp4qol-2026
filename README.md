@@ -119,19 +119,19 @@ Mayo Clinic, Rochester, MN
 -->
 ---
 
-## Program Schedule (Tentative) 
+## Program Schedule (Monday, June 1, 2026) 
 
 | Time | Activity |
 | :-- | :-- |
-| **08:30 – 08:40** | **Welcome Remarks & Introduction** |
-| **08:40 – 09:05** | **Keynote #1** |
-| **09:05 – 09:30** | **Keynote #2** |
-| **09:30 – 10:00** | **Session 1:** Oral Presentations
-| **10:00 – 10:30** | ☕ **Break & Poster Session**
-| **10:30 – 10:50** | **Keynote #3** |
-| **10:50 – 11:20** | **Session 2:** Oral Presentations |
-| **11:20 – 11:50** | **Hands-on Tutorial** |
-| **11:50 – 12:00** | **Closing Remarks & Future Directions** |
+| **08:15 – 08:25** | **Welcome Remarks & Introduction** |
+| **08:25 – 08:50** | **Keynote #1** |
+| **08:50 – 09:15** | **Keynote #2** |
+| **09:15 – 09:45** | **Session 1:** Oral Presentations
+| **09:45 – 10:15** | ☕ **Break & Poster Session**
+| **10:15 – 10:35** | **Keynote #3** |
+| **10:35 – 11:05** | **Session 2:** Oral Presentations |
+| **11:05 – 11:35** | **Hands-on Tutorial** |
+| **11:35 – 11:45** | **Closing Remarks & Future Directions** |
 
 ---
 
