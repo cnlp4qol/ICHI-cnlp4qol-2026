@@ -118,25 +118,98 @@ Mayo Clinic, Rochester, MN
 
 ---
 
-## Program Schedule (Monday, June 1, 2026) 
+<h2>Program Schedule (Monday, June 1, 2026)</h2>
 
-| Time | Activity | Presenter/Authors | Title |
-| :-- | :-- | :-- | :-- |
-| **08:15 – 08:25** | **Welcome Remarks & Introduction** | Eunji Jeon | Foundational aspects of clinical NLP for Quality of Life |
-| **08:25 – 08:50** | **Keynote #1** | Sunghwan Sohn | Mobility Functional Status Ascertainment in EHRs |
-| **08:50 – 09:15** | **Keynote #2** | Sandeep Pagali | Leveraging NLP to Detect Delirium Hidden in the Electronic Health Record – Opportunity and Value |
-| **09:15 – 09:45** | **Session 1: Oral Presentations** (#1) | Roopika Ganesh and Heena Rathore | Repetition-Aware Reinforcement Learning from AI Feedback for Empathetic Dialogue |
-| | **Session 1: Oral Presentations** (#2) | Himanshu Tripathi, Kaushik Roy, Shahram Rahimi, Subash Neupane and Sean Bozorgzad | From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data |
-| **09:45 – 10:15** | ☕ **Break & Poster Session** (#1) | Candyce Kroenke, Rhonda Aoki, Jane Liang, David Cronkite, Salene Jones, Jessica Mogk, Larry Kushi, Lauren Mammini, Shaila Strayhorn-Carter, David Mosen and Stacey Alexeeff | The EHRsupport score, an electronic health record-based social support measure |
-| | ☕ **Break & Poster Session** (#2) | Chen Xie, Di Zhu, Ziwei Wang, Haoyun Zhang and Zihan Wei | Explainable AI for Mental Health Detection from Social Media: A Comparative Study of Traditional Machine Learning and a Large Language Model |
-| | ☕ **Break & Poster Session** (#3) | Aarushi Jaitly, Helom Berhane, Deepa Burman, Anand Rao, Ramayya Krishnan and Rema Padman | Multi-Agent AI Frameworks for Clinical Diagnosis Support: Benchmarking LLM Reasoning with Sleep Disorders as a Testbed |
-| | ☕ **Break & Poster Session** (#4) | Esther Lázaro, Vanessa Moscardó, Salvador Herrera-Pérez, Patricia López-Mases and María-Victoria Fux | NLP Guided by Qualitative Methodology: Computational Analysis and Qualitative Approaches to Quality of Life |
-| | ☕ **Break & Poster Session** (#5) | Salim Sazzed, Farhan Noor Dehan and Md Ehashan Rabbi Pial | Eating Disorders Among Individuals with Suicidal Distress: A Cross-Sectional Analysis of Reddit Data on Prevalence, Demographics, and Psychiatric Comorbidity |
-| **10:15 – 10:35** | **Keynote #3** | Rui Zhang | *(Title not specified)* |
-| **10:35 – 11:05** | **Session 2: Oral Presentations** (#1) | Chen Xie, Di Zhu, Ziwei Wang, Haoyun Zhang and Zihan Wei | Compliance-Aware Discharge Agent for Auditable ICU Discharge Planning: A Pilot Feasibility Study Using Structured eICU Records |
-| | **Session 2: Oral Presentations** (#2) | Salim Sazzed, Farhan Noor Dehan, Pronoy Sarker and Md Ehashan Rabbi Pial | Beyond Risk Detection: Functional Roles of Substance Use in Suicidal Discourse Among Individuals with Autism Spectrum Disorder and Eating Disorders |
-| **11:05 – 11:35** | **Hands-on Tutorial** | Pushkala Jayaraman, Humayera Islam | Large language models for extracting wellness dimensions |
-| **11:35 – 11:45** | **Closing Remarks & Future Directions** | Muskan Garg | Open research directions for applied clinical NLP in Quality of Life |
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Activity</th>
+      <th>Presenter/Authors</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>08:15 – 08:25</strong></td>
+      <td><strong>Welcome Remarks & Introduction</strong></td>
+      <td>Eunji Jeon</td>
+      <td>Foundational aspects of clinical NLP for Quality of Life</td>
+    </tr>
+    <tr>
+      <td><strong>08:25 – 08:50</strong></td>
+      <td><strong>Keynote #1</strong></td>
+      <td>Sunghwan Sohn</td>
+      <td>Mobility Functional Status Ascertainment in EHRs</td>
+    </tr>
+    <tr>
+      <td><strong>08:50 – 09:15</strong></td>
+      <td><strong>Keynote #2</strong></td>
+      <td>Sandeep Pagali</td>
+      <td>Leveraging NLP to Detect Delirium Hidden in the Electronic Health Record – Opportunity and Value</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>09:15 – 09:45</strong></td>
+      <td rowspan="2"><strong>Session 1: Oral Presentations</strong></td>
+      <td>Roopika Ganesh and Heena Rathore</td>
+      <td>Repetition-Aware Reinforcement Learning from AI Feedback for Empathetic Dialogue</td>
+    </tr>
+    <tr>
+      <td>Himanshu Tripathi, Kaushik Roy, Shahram Rahimi, Subash Neupane and Sean Bozorgzad</td>
+      <td>From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data</td>
+    </tr>
+    <tr>
+      <td rowspan="5"><strong>09:45 – 10:15</strong></td>
+      <td rowspan="5">☕ <strong>Break & Poster Session</strong></td>
+      <td>Candyce Kroenke, Rhonda Aoki, Jane Liang, David Cronkite, Salene Jones, Jessica Mogk, Larry Kushi, Lauren Mammini, Shaila Strayhorn-Carter, David Mosen and Stacey Alexeeff</td>
+      <td>The EHRsupport score, an electronic health record-based social support measure</td>
+    </tr>
+    <tr>
+      <td>Chen Xie, Di Zhu, Ziwei Wang, Haoyun Zhang and Zihan Wei</td>
+      <td>Explainable AI for Mental Health Detection from Social Media: A Comparative Study of Traditional Machine Learning and a Large Language Model</td>
+    </tr>
+    <tr>
+      <td>Aarushi Jaitly, Helom Berhane, Deepa Burman, Anand Rao, Ramayya Krishnan and Rema Padman</td>
+      <td>Multi-Agent AI Frameworks for Clinical Diagnosis Support: Benchmarking LLM Reasoning with Sleep Disorders as a Testbed</td>
+    </tr>
+    <tr>
+      <td>Esther Lázaro, Vanessa Moscardó, Salvador Herrera-Pérez, Patricia López-Mases and María-Victoria Fux</td>
+      <td>NLP Guided by Qualitative Methodology: Computational Analysis and Qualitative Approaches to Quality of Life</td>
+    </tr>
+    <tr>
+      <td>Salim Sazzed, Farhan Noor Dehan and Md Ehashan Rabbi Pial</td>
+      <td>Eating Disorders Among Individuals with Suicidal Distress: A Cross-Sectional Analysis of Reddit Data on Prevalence, Demographics, and Psychiatric Comorbidity</td>
+    </tr>
+    <tr>
+      <td><strong>10:15 – 10:35</strong></td>
+      <td><strong>Keynote #3</strong></td>
+      <td>Rui Zhang</td>
+      <td><em>(Title not specified)</em></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>10:35 – 11:05</strong></td>
+      <td rowspan="2"><strong>Session 2: Oral Presentations</strong></td>
+      <td>Chen Xie, Di Zhu, Ziwei Wang, Haoyun Zhang and Zihan Wei</td>
+      <td>Compliance-Aware Discharge Agent for Auditable ICU Discharge Planning: A Pilot Feasibility Study Using Structured eICU Records</td>
+    </tr>
+    <tr>
+      <td>Salim Sazzed, Farhan Noor Dehan, Pronoy Sarker and Md Ehashan Rabbi Pial</td>
+      <td>Beyond Risk Detection: Functional Roles of Substance Use in Suicidal Discourse Among Individuals with Autism Spectrum Disorder and Eating Disorders</td>
+    </tr>
+    <tr>
+      <td><strong>11:05 – 11:35</strong></td>
+      <td><strong>Hands-on Tutorial</strong></td>
+      <td>Pushkala Jayaraman, Humayera Islam</td>
+      <td>Large language models for extracting wellness dimensions</td>
+    </tr>
+    <tr>
+      <td><strong>11:35 – 11:45</strong></td>
+      <td><strong>Closing Remarks & Future Directions</strong></td>
+      <td>Muskan Garg</td>
+      <td>Open research directions for applied clinical NLP in Quality of Life</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
