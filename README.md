@@ -184,7 +184,7 @@ Mayo Clinic, Rochester, MN
       <td><strong>10:15 – 10:35</strong></td>
       <td><strong>Keynote #3</strong></td>
       <td>Rui Zhang</td>
-      <td><em>(Title not specified)</em></td>
+      <td><em>TBD</em></td>
     </tr>
     <tr>
       <td rowspan="2"><strong>10:35 – 11:05</strong></td>
