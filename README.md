@@ -120,7 +120,7 @@ Mayo Clinic, Rochester, MN
 
 ## Program Schedule (Monday, June 1, 2026) 
 
-| Time | Activity | Presenter/Authors | Title |
+| Time | Activity | Presenter/Authors | Title/Topic |
 | :-- | :-- | :-- | :-- |
 | **08:15 – 08:25** | **Welcome Remarks & Introduction** | Eunji Jeon | Foundational aspects of clinical NLP for Quality of Life |
 | **08:25 – 08:50** | **Keynote #1** | Sunghwan Sohn | Mobility Functional Status Ascertainment in EHRs |
