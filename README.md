@@ -10,10 +10,10 @@ In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026
 
 1. [Overview](#overview)
 2. [Call for Papers](#call-for-papers)
-<!-- 3. [Keynote Speakers](#keynote-speakers) -->
-3. [Program Schedule](#program-schedule)
-4. [Organizing Committee](#organizing-committee)
-5. [Venue & Contact](#venue--contact)
+3. [Keynote Speakers](#keynote-speakers)
+4. [Program Schedule](#program-schedule)
+5. [Organizing Committee](#organizing-committee)
+6. [Venue & Contact](#venue--contact)
 
 ---
 
